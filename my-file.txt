@@ -1,2 +1,4 @@
-My test file for the bootcamp.
+My test file for the bootcamp
+
+This git branching stuff is both new and confusing.
 
